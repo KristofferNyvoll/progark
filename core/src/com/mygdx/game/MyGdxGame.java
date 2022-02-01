@@ -23,7 +23,6 @@ public class MyGdxGame extends ApplicationAdapter {
 		sprite = new Sprite(texture);
 		x = Gdx.graphics.getWidth()/2;
 		y = Gdx.graphics.getHeight()/2;
-
 	}
 
 	@Override
